@@ -629,6 +629,12 @@ function App() {
           </div>
         </div>
       </div>
+
+      {/* Footer */}
+      <footer className="mt-8 text-center py-4 text-gray-600 text-sm">
+        <p>© 2025 <span className="font-semibold">KKN UNY - KLEPU MERAMU</span></p>
+        <p className="mt-1">By <span className="font-bold">Revalin Arianti Rajagukguk</span></p>
+      </footer>
     </div>
   );
 }
