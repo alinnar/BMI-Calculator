@@ -259,7 +259,7 @@ function App() {
                 <HandHeart className="h-6 w-6 text-white" />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                Kalkulator BMI
+                Kalkulator BMI Klepu Kidul
               </h1>
             </div>
           </div>
